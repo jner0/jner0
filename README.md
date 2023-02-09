@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nemecio Rodriguez, also known as Nero 
+- 👋 Hi, I’m Nemecio Rodriguez.
 -  I am from Ecuador. I was born in a peculiar but beautiful city called Chone.
--  I'm interested in becoming a Web Developer.
-- 🌱 I’m currently learning HTML, CSS and JavaScript and will learn a lot more to be a full Stack Developer.
+-  I'm interested in becoming a Software Developer.
+- 🌱 I’m currently learning a lot of things related with software development.
 - 📫 You can reach me by gitHub or by my Twitter account @jnemecio
 
 <!---
